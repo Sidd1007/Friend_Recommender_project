@@ -1,0 +1,291 @@
+PS C:\Users\LENOVO\OneDrive\Desktop\python\miniproject> python .\miniproject.py
+Enter your choice: 
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 1
+Enter user name: Faraz
+
+Id: 1  Name: Faraz
+
+Enter your choice: 
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 1
+Enter user name: Kushal
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+
+Enter your choice: 
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 1
+Enter user name: Parth
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+
+Enter your choice: 
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 1
+Enter user name: Sidd
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 1
+Enter user name: Piyush
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 1
+Enter user name: Zaid
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+Id: 6  Name: Zaid
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 1
+Enter user name: Waleed
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+Id: 6  Name: Zaid
+Id: 7  Name: Waleed
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 2
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+Id: 6  Name: Zaid
+Id: 7  Name: Waleed
+
+Enter user-1 ID: 1
+Enter user-2 ID: 2
+
+Connections:
+Faraz: Kushal,
+Kushal: Faraz,
+Parth:
+Sidd:
+Piyush:
+Zaid:
+Waleed:
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 2
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+Id: 6  Name: Zaid
+Id: 7  Name: Waleed
+
+Enter user-1 ID: 3
+Enter user-2 ID: 2
+
+Connections:
+Faraz: Kushal,
+Kushal: Faraz, Parth,
+Parth: Kushal,
+Sidd:
+Piyush:
+Zaid:
+Waleed:
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 2
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+Id: 6  Name: Zaid
+Id: 7  Name: Waleed
+
+Enter user-1 ID: 1
+Enter user-2 ID: 5
+
+Connections:
+Faraz: Kushal, Piyush,
+Kushal: Faraz, Parth,
+Parth: Kushal,
+Sidd:
+Piyush: Faraz,
+Zaid:
+Waleed:
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 2
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+Id: 6  Name: Zaid
+Id: 7  Name: Waleed
+
+Enter user-1 ID: 1
+Enter user-2 ID: 4
+
+Connections:
+Faraz: Kushal, Sidd, Piyush,
+Kushal: Faraz, Parth,
+Parth: Kushal,
+Sidd: Faraz,
+Piyush: Faraz,
+Zaid:
+Waleed:
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 2
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+Id: 6  Name: Zaid
+Id: 7  Name: Waleed
+
+Enter user-1 ID: 4
+Enter user-2 ID: 6
+
+Connections:
+Faraz: Kushal, Sidd, Piyush,
+Kushal: Faraz, Parth,
+Parth: Kushal,
+Sidd: Faraz, Zaid,
+Piyush: Faraz,
+Zaid: Sidd,
+Waleed:
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 2
+
+Id: 1  Name: Faraz
+Id: 2  Name: Kushal
+Id: 3  Name: Parth
+Id: 4  Name: Sidd
+Id: 5  Name: Piyush
+Id: 6  Name: Zaid
+Id: 7  Name: Waleed
+
+Enter user-1 ID: 4
+Enter user-2 ID: 7
+
+Connections:
+Faraz: Kushal, Sidd, Piyush,
+Kushal: Faraz, Parth,
+Parth: Kushal,
+Sidd: Faraz, Zaid, Waleed,
+Piyush: Faraz,
+Zaid: Sidd,
+Waleed: Sidd,
+
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 3
+Get suggestion for user(ID): 1
+Suggestions for user(1) Faraz
+        User: 3  Name: Parth
+        User: 6  Name: Zaid
+        User: 7  Name: Waleed
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 3
+Get suggestion for user(ID): 4
+Suggestions for user(4) Sidd
+        User: 2  Name: Kushal
+        User: 5  Name: Piyush
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 3
+Get suggestion for user(ID): 5
+Suggestions for user(5) Piyush
+        User: 2  Name: Kushal
+        User: 4  Name: Sidd
+Enter your choice:
+1. Add user
+2. Add connection
+3. Get friend suggestion
+4. Exit
+-> 4
